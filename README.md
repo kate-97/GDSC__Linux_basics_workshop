@@ -16,4 +16,4 @@ Materijali sa Linux Basics radionice, odrzane 26. decembra 2020. godine.
 
 Ukoliko primetite bilo kakvu gresku ili propust, slobodno mi se obratite na mejl: `mstojic39@yahoo.com`
 
-*Srecno pri radu i srecni praznici!*
+*Srecno pri radu i srecni praznici!* 😊
