@@ -3,7 +3,7 @@ Materijali sa Linux Basics radionice, odrzane 26. decembra 2020. godine.
 
 <img src="Linux.png" alt="Linux" width="200"/>
 
-* Materijale mozete skinuti rucno preuzimanjem sa strane, ili komandom:
+* Materijale mozete skinuti rucno preuzimanjem sa strane, ili komandom: <br/>
 `git clone https://github.com/kate-97/GDSC__Linux_basics_workshop`
 
 * U datoteci Komande.md vam se nalaze komande koje smo prosli na radionici.
